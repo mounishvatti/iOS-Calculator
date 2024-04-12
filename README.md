@@ -1,4 +1,4 @@
-**iOS Calculator**
+# iOS Calculator
 
 This is a simple iOS-style calculator built using HTML, CSS, and JavaScript.
 
