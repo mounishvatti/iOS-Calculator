@@ -9,8 +9,11 @@ This is a simple iOS-style calculator built using HTML, CSS, and JavaScript.
 
 ### Usage
 1. Clone or download the repository to your local machine.
-2. Open the `index.html` file in a web browser.
-3. Use the calculator buttons to perform calculations.
+```bash
+git clone https://github.com/mounishvatti/ioscalculator.git
+```
+3. Open the `index.html` file in a web browser.
+4. Use the calculator buttons to perform calculations.
 
 ### How It Works
 - **HTML**: Provides the structure and layout of the calculator.
